@@ -40,6 +40,8 @@
 * ACID
 * Transaction isolation level
 * Normalization
+* Transaction
+  * Roolback
 
 ## Authentication / Authorization
 * OAuth
@@ -63,6 +65,10 @@
 #### DynamoDB
 ### GCP
 ### Azure
+
+## Web framework
+### @Transaction
+* Enhancer
 
 ## Development tools
 ### Git
