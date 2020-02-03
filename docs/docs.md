@@ -1,3 +1,28 @@
+## OS
+
+## Nework
+* TCP/IP
+
+## Argorithm
+### Sorting
+* Bubble sort
+* Insertion sort
+* Selection sort
+* Merge sort
+* Quick sort
+* Heap sort
+
+### Tree
+* B-Tree
+
+## Security
+* XSS
+* CSRF
+* Directory traversal
+* OS command injection
+* SQL injection
+* Open redirect
+
 ## Web apps
 * logging (Log4j, Logback)
   * do not output privacy information
@@ -14,20 +39,30 @@
 ## Database
 * ACID
 * Transaction isolation level
+* Normalization
 
 ## Authentication / Authorization
 * OAuth
 * OpenID Connect
 
-## Security
-* XSS
-* CSRF
-* Directory traversal
-* OS command injection
-* SQL injection
-* Open redirect
-
 ## Performance
 * N+1 problem
   * Lazy loading
   * Eager loading
+
+## Programming Language
+### Java
+### Kotlin
+
+## IaaS
+### AWS
+#### VPC
+#### EC2
+#### RDS
+#### ElastiCache
+#### DynamoDB
+### GCP
+### Azure
+
+## Development tools
+### Git
