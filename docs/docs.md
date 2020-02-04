@@ -72,3 +72,6 @@
 
 ## Development tools
 ### Git
+
+## API
+* https://restful-api-guidelines-ja.netlify.com/
